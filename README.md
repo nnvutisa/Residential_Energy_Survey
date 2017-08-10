@@ -1,3 +1,3 @@
 # Residential_Energy_Survey
 
-this is a repository for data analysis project on the 2009 residential energy survey.
+This is a repository for data analysis project on the 2009 Residential Energy Consumption Survey from the U.S. Energy Information Administration. 
